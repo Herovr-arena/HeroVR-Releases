@@ -1,9 +1,9 @@
 {
-    "version":  "1.12.1",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.12.1/HeroVR_Launcher.exe",
-    "sha256":  "e562b9cdb8c16f1dd89472581a4173833c7d5b2b2e785d1122db9dd98ab01eb0",
-    "size":  33298892,
+    "version":  "1.12.2",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.12.2/HeroVR_Launcher.exe",
+    "sha256":  "5797f17994ea0b589ae2ba91175a3ba288fd379de573f1b32e2f0e861c649fe8",
+    "size":  33301670,
     "date":  "2026-10-04",
-    "notes":  "SET bez PIN-u, ADMIN z PIN-em; opcje tablicy na TV: ukryj tablice, calkowicie przezroczyste tlo",
+    "notes":  "SET bez zbednych opcji, ADMIN z sciezkami; tablica na TV domyslnie przezroczysta; przycisk Sprawdz teraz",
     "min_version":  "1.11.0"
 }
