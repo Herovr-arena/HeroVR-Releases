@@ -1,9 +1,9 @@
 {
-  "version": "1.12.5",
-  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.12.4/HeroVR_Launcher.exe",
-  "sha256": "e5904732afc6dbe3b33e955f52e8ab3f6835845566911885aa461dcfa80c8f59",
-  "size": 33301031,
-  "date": "2026-10-04",
-  "notes": "Test mechanizmu aktualizacji - pobierany plik to 1.12.4",
-  "min_version": "1.11.0"
+    "version":  "1.12.5",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.12.5/HeroVR_Launcher.exe",
+    "sha256":  "543670dbb14d1fbdc2906ee870fcab85b536a86e05df36f26669e38500e3ea75",
+    "size":  33301755,
+    "date":  "2026-10-04",
+    "notes":  "Aktualizacja blokowana przez uruchomiona biblioteke, nie przez pauze stopera; mniej powtarzajacych sie wpisow w logu",
+    "min_version":  "1.11.0"
 }
