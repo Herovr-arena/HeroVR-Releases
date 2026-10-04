@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.5",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.5/HeroVR_Launcher.exe",
-    "sha256":  "7ee3fe333b14248b124d5e26c4ed434a5620c0868f7acd8a28970baa38de45c0",
-    "size":  33304456,
+    "version":  "1.13.6",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.6/HeroVR_Launcher.exe",
+    "sha256":  "1c128aa4509e11d91b52f94be11dd4097c65ab5ea0f0459e0aa45ec338b7069f",
+    "size":  33304236,
     "date":  "2026-10-04",
-    "notes":  "Po aktualizacji nic nie zostaje: plik nie jest kopiowany na pulpit, a katalog tymczasowy jest usuwany przez pomocnika",
+    "notes":  "Aktualizacja nie zostawia nic: brak kopii na pulpicie, katalog tymczasowy usuwany; odtwarzanie poprzedniej wersji dziala takze przy zablokowanym pliku",
     "min_version":  "1.11.0"
 }
