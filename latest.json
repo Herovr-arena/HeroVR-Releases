@@ -1,9 +1,9 @@
 {
-  "version": "1.12.1",
-  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.12.0/HeroVR_Launcher.exe",
-  "sha256": "f1e4d164718d76e27ca50a6d66516f9a437a4b72d74c15eaa86c7164e8297130",
-  "size": 33296325,
-  "date": "2026-10-04",
-  "notes": "TEST wykrywania aktualizacji - ta wersja nie istnieje",
-  "min_version": "1.11.0"
+    "version":  "1.12.0",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.12.0/HeroVR_Launcher.exe",
+    "sha256":  "f1e4d164718d76e27ca50a6d66516f9a437a4b72d74c15eaa86c7164e8297130",
+    "size":  33296325,
+    "date":  "2026-10-04",
+    "notes":  "Automatyczne sprawdzanie aktualizacji: przycisk w naglowku, pobieranie z publicznego repozytorium wydan z weryfikacja sha256",
+    "min_version":  "1.11.0"
 }
