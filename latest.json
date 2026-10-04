@@ -1,9 +1,9 @@
-﻿{
-    "version":  "1.11.22",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.11.22/HeroVR_Launcher.exe",
-    "sha256":  "b970245bf4cebad42785463761a9d0d29f64ae4605ab9c4f1a8f38043ad7e7b0",
-    "size":  33287229,
-    "date":  "2026-10-04",
-    "notes":  "Stoper sesji z pauza, tablica czasu na telewizorze gosci, pytanie o nowa sesje przy starcie drugiej biblioteki",
-    "min_version":  "1.11.0"
+{
+  "version": "1.11.22",
+  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.11.22/HeroVR_Launcher.exe",
+  "sha256": "b970245bf4cebad42785463761a9d0d29f64ae4605ab9c4f1a8f38043ad7e7b0",
+  "size": 33287229,
+  "date": "2026-10-04",
+  "notes": "Stoper sesji z pauza, tablica czasu na telewizorze gosci, pytanie o nowa sesje przy starcie drugiej biblioteki",
+  "min_version": "1.11.0"
 }
