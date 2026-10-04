@@ -1,9 +1,9 @@
 {
-    "version":  "1.12.4",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.12.4/HeroVR_Launcher.exe",
-    "sha256":  "e5904732afc6dbe3b33e955f52e8ab3f6835845566911885aa461dcfa80c8f59",
-    "size":  33301031,
-    "date":  "2026-10-04",
-    "notes":  "SET: tylko zegar na TV i aktualizacje; ADMIN: sciezki, widocznosc kart, PIN",
-    "min_version":  "1.11.0"
+  "version": "1.12.5",
+  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.12.4/HeroVR_Launcher.exe",
+  "sha256": "e5904732afc6dbe3b33e955f52e8ab3f6835845566911885aa461dcfa80c8f59",
+  "size": 33301031,
+  "date": "2026-10-04",
+  "notes": "Test mechanizmu aktualizacji - pobierany plik to 1.12.4",
+  "min_version": "1.11.0"
 }
