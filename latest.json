@@ -1,9 +1,9 @@
 {
-  "version": "1.13.2",
-  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.1/HeroVR_Launcher.exe",
-  "sha256": "20cdfb127139d418fc1008507f365e7fe115a648fc9cb2c3fca212023cac070f",
-  "size": 33302322,
-  "date": "2026-10-04",
-  "notes": "Test samoaktualizacji: podmieniany plik jest identyczny z 1.13.1, wiec test jest uczciwy",
-  "min_version": "1.11.0"
+    "version":  "1.13.2",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.2/HeroVR_Launcher.exe",
+    "sha256":  "4119d93d09d5cd0db0dd2acdb361a24112005e5b94ccd7d64874ef0a5ff5271e",
+    "size":  33303699,
+    "date":  "2026-10-04",
+    "notes":  "Naprawa samoaktualizacji: ukryty start pomocnika przez wscript zamiast flagi CREATE_NO_WINDOW, ktora uniemozliwiala uruchomienie nowej wersji (blad PyInstallera o procesie nadrzednym)",
+    "min_version":  "1.11.0"
 }
