@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.1",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.1/HeroVR_Launcher.exe",
-    "sha256":  "20cdfb127139d418fc1008507f365e7fe115a648fc9cb2c3fca212023cac070f",
-    "size":  33302322,
-    "date":  "2026-10-04",
-    "notes":  "Launcher potrafi sam sie zaktualizowac: pobiera nowa wersje, zamyka sie i wraca jako nowa, a gdy nowa nie wstanie, sam przywraca poprzednia. Interfejs w calosci po angielsku.",
-    "min_version":  "1.11.0"
+  "version": "1.13.2",
+  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.1/HeroVR_Launcher.exe",
+  "sha256": "20cdfb127139d418fc1008507f365e7fe115a648fc9cb2c3fca212023cac070f",
+  "size": 33302322,
+  "date": "2026-10-04",
+  "notes": "Test samoaktualizacji: podmieniany plik jest identyczny z 1.13.1, wiec test jest uczciwy",
+  "min_version": "1.11.0"
 }
