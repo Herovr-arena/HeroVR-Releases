@@ -1,9 +1,9 @@
 {
-  "version": "1.13.8",
-  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.8/HeroVR_Launcher.exe",
-  "sha256": "5d79e108a167c33be6a2e1ca2246a60954a5e69da4347a47569acc61e556b188",
-  "size": 33320141,
-  "date": "2026-10-04",
-  "notes": "Launcher potrafi sam sie zaktualizowac; pomocnik w srodku exe, staging w folderze zablokowanym dla zwyklych uzytkownikow, weryfikacja sha256 przed instalacja",
-  "min_version": "1.11.0"
+    "version":  "1.13.8",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.8/HeroVR_Launcher.exe",
+    "sha256":  "5d79e108a167c33be6a2e1ca2246a60954a5e69da4347a47569acc61e556b188",
+    "size":  33320141,
+    "date":  "2026-10-07",
+    "notes":  "Launcher potrafi sam sie zaktualizowac. Pomocnik jest w srodku exe i startuje z folderu zablokowanego dla zwyklych uzytkownikow; sha256 sprawdzany przed podmiana. Folder instalacji zamkniety dla zwyklych uzytkownikow.",
+    "min_version":  "1.11.0"
 }
