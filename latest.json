@@ -1,8 +1,8 @@
 {
   "version": "1.13.9",
-  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.7/HeroVR_Launcher.exe",
-  "sha256": "4d73a0932ac0391e3d4e1bb91b655ebb31999b004af2fbd07bd10b3c8ad7c744",
-  "size": 33306359,
+  "url": "https://github.com/Herovr-arena/HeroVR-Releases/raw/main/releases/1.13.8/HeroVR_Launcher.exe",
+  "sha256": "",
+  "size": 33320141,
   "date": "2026-10-04",
   "notes": "Test mechanizmu aktualizacji po zamknieciu dziury ACL: podmieniany plik jest identyczny z 1.13.8",
   "min_version": "1.11.0"
