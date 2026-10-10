@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.8",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.8/HeroVR_Launcher.exe",
-    "sha256":  "5d79e108a167c33be6a2e1ca2246a60954a5e69da4347a47569acc61e556b188",
-    "size":  33320141,
-    "date":  "2026-10-07",
-    "notes":  "test",
+    "version":  "1.13.9",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.9/HeroVR_Launcher.exe",
+    "sha256":  "84ef25fc056690e6b6abe002dce0a68e5d9aed0c607776f37a20784987968da9",
+    "size":  33324965,
+    "date":  "2026-10-10",
+    "notes":  "Folder instalacji nalezy teraz do grupy Administratorzy, wiec zwykly uzytkownik nie moze podmienic launchera ani zmienic konfiguracji. Pobieranie nie moze juz rzucic wyjatkiem i zostawic okna zablokowanego. Adres pliku jest sprawdzany scislej: wlasciwy host, wlasciwe repozytorium, bez query, fragmentu, portu i czesci uzytkownika; przekierowanie tylko na hosty GitHub. Pomocnik jest w srodku exe, a jego bajty sa sprawdzane raz, tam gdzie sa uzywane.",
     "min_version":  "1.11.0"
 }
