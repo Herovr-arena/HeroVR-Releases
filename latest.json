@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.9",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.9/HeroVR_Launcher.exe",
-    "sha256":  "84ef25fc056690e6b6abe002dce0a68e5d9aed0c607776f37a20784987968da9",
-    "size":  33324965,
+    "version":  "1.13.10",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.10/HeroVR_Launcher.exe",
+    "sha256":  "741906ec4c996dea87257dc1d1b1c0ccf18f91351b6a97092e575d50e190fa62",
+    "size":  33327639,
     "date":  "2026-10-10",
-    "notes":  "Folder instalacji nalezy teraz do grupy Administratorzy, wiec zwykly uzytkownik nie moze podmienic launchera ani zmienic konfiguracji. Pobieranie nie moze juz rzucic wyjatkiem i zostawic okna zablokowanego. Adres pliku jest sprawdzany scislej: wlasciwy host, wlasciwe repozytorium, bez query, fragmentu, portu i czesci uzytkownika; przekierowanie tylko na hosty GitHub. Pomocnik jest w srodku exe, a jego bajty sa sprawdzane raz, tam gdzie sa uzywane.",
+    "notes":  "Dzieci launchera nie dziedzicza juz folderu tymczasowego PyInstallera jako katalogu roboczego, wiec bootloader moze go posprzatac i okno ostrzezenia o nieusunietym folderze _MEI nie pojawia sie wiecej. Launcher sprzata takze stare foldery _MEI pozostawione przez wczesniejsze wersje, awarie i ubicie procesu.",
     "min_version":  "1.11.0"
 }
