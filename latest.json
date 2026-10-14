@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.12",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.12/HeroVR_Launcher.exe",
-    "sha256":  "1c56b8093a8fc50a31e993cb658b0d51f15d9a550742fc7175acc1679b433f6a",
-    "size":  33349587,
+    "version":  "1.13.13",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.13/HeroVR_Launcher.exe",
+    "sha256":  "5ea6a4d435eca98b368699335ffefe3a5eb24fca194cd4d8ef668435f092eae6",
+    "size":  33379060,
     "date":  "2026-10-14",
-    "notes":  "Sekcja Devices w ustawieniach: lista okularow z nazwa, numerem i kolorem, stan podlaczenia (zielony/czerwony), poziom naladowania i temperatura, oba kontrolery z poziomem baterii i informacja czy sa sledzone, oraz co jest wyswietlane na okularach. Tylko odczyt - nic nie uruchamia ani nie zatrzymuje na okularach. Bramka wydania zapisuje teraz w dwoch fazach: zrzut przed budowa i weryfikacja po niej, zeby plik zmieniony w trakcie budowy nie zostal zapisany jako aktualny.",
+    "notes":  "Poprawka: panel Devices wywolywal Tkinter z watku roboczego i zamrazal okno launcherа. Odczyt okularow idzie teraz przez kolejke, a watek glowny sam ja oproznа. Panel zapisuje tez do logu, czego wczesniej nie robil wcale.",
     "min_version":  "1.11.0"
 }
