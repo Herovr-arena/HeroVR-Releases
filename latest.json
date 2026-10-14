@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.11",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.11/HeroVR_Launcher.exe",
-    "sha256":  "6c35d66695828c12443213b5800d6fc2a0617f5235bbbaeedc3a2e11e718bd64",
-    "size":  33327416,
-    "date":  "2026-10-11",
-    "notes":  "Dzieci launchera nie dziedzicza juz folderu tymczasowego PyInstallera, wiec bootloader moze go posprzatac i okno o nieusunietym folderze _MEI nie pojawia sie wiecej. Launcher sprzata takze stare foldery _MEI, pomijajac te swieze i te, ktore sa dowiazaniami. Bramka wydania sprawdza teraz zawartosc wszystkich plikow wchodzacych do exe oraz sam plik exe.",
+    "version":  "1.13.12",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.12/HeroVR_Launcher.exe",
+    "sha256":  "1c56b8093a8fc50a31e993cb658b0d51f15d9a550742fc7175acc1679b433f6a",
+    "size":  33349587,
+    "date":  "2026-10-14",
+    "notes":  "Sekcja Devices w ustawieniach: lista okularow z nazwa, numerem i kolorem, stan podlaczenia (zielony/czerwony), poziom naladowania i temperatura, oba kontrolery z poziomem baterii i informacja czy sa sledzone, oraz co jest wyswietlane na okularach. Tylko odczyt - nic nie uruchamia ani nie zatrzymuje na okularach. Bramka wydania zapisuje teraz w dwoch fazach: zrzut przed budowa i weryfikacja po niej, zeby plik zmieniony w trakcie budowy nie zostal zapisany jako aktualny.",
     "min_version":  "1.11.0"
 }
