@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.13",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.13/HeroVR_Launcher.exe",
-    "sha256":  "5ea6a4d435eca98b368699335ffefe3a5eb24fca194cd4d8ef668435f092eae6",
-    "size":  33379060,
-    "date":  "2026-10-14",
-    "notes":  "Poprawka: panel Devices wywolywal Tkinter z watku roboczego i zamrazal okno launcherа. Odczyt okularow idzie teraz przez kolejke, a watek glowny sam ja oproznа. Panel zapisuje tez do logu, czego wczesniej nie robil wcale.",
+    "version":  "1.13.14",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.14/HeroVR_Launcher.exe",
+    "sha256":  "4419c5e3290a2c02309a773dda5e95b5b7a6095eb318608c4e2af764ed0dd84c",
+    "size":  33386290,
+    "date":  "2026-10-16",
+    "notes":  "Sekcja Devices (okulary VR) jest teraz wylaczona, chyba ze konfiguracja ja wlaczy. W wersjach 1.13.12 i 1.13.13 byla widoczna dla wszystkich, choc nie jest jeszcze skonczona i na komputerze franczyzy nie ma do czego jej uzyc. Nic innego w launcherze sie nie zmienilo.",
     "min_version":  "1.11.0"
 }
