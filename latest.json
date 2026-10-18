@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.14",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.14/HeroVR_Launcher.exe",
-    "sha256":  "4419c5e3290a2c02309a773dda5e95b5b7a6095eb318608c4e2af764ed0dd84c",
-    "size":  33386290,
-    "date":  "2026-10-16",
-    "notes":  "Sekcja Devices (okulary VR) jest teraz wylaczona, chyba ze konfiguracja ja wlaczy. W wersjach 1.13.12 i 1.13.13 byla widoczna dla wszystkich, choc nie jest jeszcze skonczona i na komputerze franczyzy nie ma do czego jej uzyc. Nic innego w launcherze sie nie zmienilo.",
+    "version":  "1.13.18",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.18/HeroVR_Launcher.exe",
+    "sha256":  "f6be72fe84f47057d1e5cadec8592bcf729d02883531fcd5fc5d5ec25aaaad4c",
+    "size":  33393552,
+    "date":  "2026-10-18",
+    "notes":  "1.13.18\n\nStabilnosc\n- Przyciski START/STOP nie zawieszaja sie juz do restartu launchera.\n  Zdarzalo sie, ze biblioteka wystartowala, a launcher dalej pokazywal\n  ladowanie i nie przyjmowal klikniec.\n- Aktualizacja nie kasuje juz ustawien: PIN administratora i sciezki\n  bibliotek zostaja na miejscu.\n- START biblioteki jest szybszy: launcher nie zatrzymuje bibliotek,\n  ktore i tak nie dzialaja.\n\nInstalacja\n- Instalator sprawdza pakiet sumami SHA256, kopiuje go do zamknietego\n  folderu i weryfikuje kopie, zanim cokolwiek uruchomi.\n- Folder instalacji jest zamykany PRZED rejestracja zadania autostartu;\n  zadanie odmawia, jesli folder jest otwarty dla zwyklych uzytkownikow.\n- Ponowna instalacja nie nadpisuje konfiguracji arkusza.",
     "min_version":  "1.11.0"
 }
