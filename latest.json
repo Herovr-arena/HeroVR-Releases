@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.18",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.18/HeroVR_Launcher.exe",
-    "sha256":  "f6be72fe84f47057d1e5cadec8592bcf729d02883531fcd5fc5d5ec25aaaad4c",
-    "size":  33393552,
+    "version":  "1.13.19",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.19/HeroVR_Launcher.exe",
+    "sha256":  "ce77d95e655f866f0a52e60d9ec6d26e8945166d3d4c7d442200282de07780fa",
+    "size":  33392895,
     "date":  "2026-10-18",
-    "notes":  "1.13.18\n\nStabilnosc\n- Przyciski START/STOP nie zawieszaja sie juz do restartu launchera.\n  Zdarzalo sie, ze biblioteka wystartowala, a launcher dalej pokazywal\n  ladowanie i nie przyjmowal klikniec.\n- Aktualizacja nie kasuje juz ustawien: PIN administratora i sciezki\n  bibliotek zostaja na miejscu.\n- START biblioteki jest szybszy: launcher nie zatrzymuje bibliotek,\n  ktore i tak nie dzialaja.\n\nInstalacja\n- Instalator sprawdza pakiet sumami SHA256, kopiuje go do zamknietego\n  folderu i weryfikuje kopie, zanim cokolwiek uruchomi.\n- Folder instalacji jest zamykany PRZED rejestracja zadania autostartu;\n  zadanie odmawia, jesli folder jest otwarty dla zwyklych uzytkownikow.\n- Ponowna instalacja nie nadpisuje konfiguracji arkusza.",
+    "notes":  "1.13.19\n\nWersje alfa\n- Numer wersji moze teraz konczyc sie litera: 1.13.20a, 1.13.20b.\n  Taka wersja jest WERSJA TESTOWA i nie trafia do kanalu aktualizacji.\n- Wersja tesowa jest zawsze starsza od tej samej wersji bez litery,\n  wiec wydanie 1.13.20 poprawnie zastapi 1.13.20a i 1.13.20b.\n  Wczesniej nie zastapiloby - obie mialy ten sam numer.\n- Zadna wersja nie jest nowsza od samej siebie, a wersja, ktora nie\n  zainstalowala sie poprawnie, nie blokuje juz swojego wydania.\n\nReszta bez zmian.",
     "min_version":  "1.11.0"
 }
