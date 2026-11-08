@@ -1,9 +1,9 @@
 {
-    "version":  "1.25.1",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.25.1/HeroVR_Launcher.exe",
-    "sha256":  "60c44af79061f81f9a6df8cc575e1cab7e6ab1e20efa718cfa11e029589ffaed",
-    "size":  28157161,
+    "version":  "1.25.2",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.25.2/HeroVR_Launcher.exe",
+    "sha256":  "e7a2f484195dcd987c62415ca34e82cd7e98a986a6978983478c6668f6cec86e",
+    "size":  28162245,
     "date":  "2026-11-08",
-    "notes":  "1.25.1 alpha - for Meta Quest operators running HeroVR or HeroVR+VEX. Spawn Point is NOT claimed in this build. Fixes: OBS recording UI starvation, session clock restore/pause, window maximize background, updater self-update; accepted after three owner walks (picker with selection, REC 40s, maximize).",
+    "notes":  "1.25.2 - Devices and OBS panels are ON by default: a fresh or updated PC gets them without editing any file; an explicit false in the config is still respected. Settings now has a Show Devices and OBS panels switch. The OBS pipeline path resolves itself. Scope: Meta Quest, HeroVR or HeroVR+VEX; Spawn Point not claimed.",
     "min_version":  "1.11.0"
 }
