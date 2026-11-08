@@ -1,9 +1,9 @@
 {
-    "version":  "1.13.19",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.13.19/HeroVR_Launcher.exe",
-    "sha256":  "ce77d95e655f866f0a52e60d9ec6d26e8945166d3d4c7d442200282de07780fa",
-    "size":  33392895,
-    "date":  "2026-10-18",
-    "notes":  "1.13.19\n\nWersje alfa\n- Numer wersji moze teraz konczyc sie litera: 1.13.20a, 1.13.20b.\n  Taka wersja jest WERSJA TESTOWA i nie trafia do kanalu aktualizacji.\n- Wersja tesowa jest zawsze starsza od tej samej wersji bez litery,\n  wiec wydanie 1.13.20 poprawnie zastapi 1.13.20a i 1.13.20b.\n  Wczesniej nie zastapiloby - obie mialy ten sam numer.\n- Zadna wersja nie jest nowsza od samej siebie, a wersja, ktora nie\n  zainstalowala sie poprawnie, nie blokuje juz swojego wydania.\n\nReszta bez zmian.",
+    "version":  "1.25.1",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.25.1/HeroVR_Launcher.exe",
+    "sha256":  "60c44af79061f81f9a6df8cc575e1cab7e6ab1e20efa718cfa11e029589ffaed",
+    "size":  28157161,
+    "date":  "2026-11-08",
+    "notes":  "1.25.1 alpha - for Meta Quest operators running HeroVR or HeroVR+VEX. Spawn Point is NOT claimed in this build. Fixes: OBS recording UI starvation, session clock restore/pause, window maximize background, updater self-update; accepted after three owner walks (picker with selection, REC 40s, maximize).",
     "min_version":  "1.11.0"
 }
