@@ -1,9 +1,9 @@
 {
-    "version":  "1.25.2",
-    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.25.2/HeroVR_Launcher.exe",
-    "sha256":  "e7a2f484195dcd987c62415ca34e82cd7e98a986a6978983478c6668f6cec86e",
-    "size":  28162245,
-    "date":  "2026-11-08",
-    "notes":  "1.25.2 - Devices and OBS panels are ON by default: a fresh or updated PC gets them without editing any file; an explicit false in the config is still respected. Settings now has a Show Devices and OBS panels switch. The OBS pipeline path resolves itself. Scope: Meta Quest, HeroVR or HeroVR+VEX; Spawn Point not claimed.",
+    "version":  "1.25.9",
+    "url":  "https://github.com/Herovr-arena/HeroVR-Releases/releases/download/v1.25.9/HeroVR_Launcher.exe",
+    "sha256":  "f37dd905f6b4c77651b798d3b61ce0a20348f37c375d810b975bfbc14a399a27",
+    "size":  28177481,
+    "date":  "2026-11-12",
+    "notes":  "1.25.9 alpha - the full batch for Meta Quest operators running HeroVR or HeroVR+VEX (Spawn Point not claimed). adb installs itself on a fresh PC; Devices and OBS panels are on by default with a folder picker for the video pipeline; the session clock starts a new session at zero and survives restarts (pause/resume, anchor); a library that is still starting no longer counts as gone; the background redraw no longer costs half a second per frame; the stall watchdog now measures a real second of lateness instead of its own heartbeat period.",
     "min_version":  "1.11.0"
 }
